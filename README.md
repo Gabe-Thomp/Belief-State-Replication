@@ -1,2 +1,2 @@
 # Belief-State-Replication
-A quick replication of the paper (https://arxiv.org/html/2405.15943v1)[Transformers Represent Belief State Geometry in their Residual Stream]!
+A quick replication of the paper [Transformers Represent Belief State Geometry in their Residual Stream](https://arxiv.org/html/2405.15943v1)!
